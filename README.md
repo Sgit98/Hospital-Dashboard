@@ -102,7 +102,4 @@ Tracks readmission trends and high-risk areas.
 
 ## 📸 Screenshots / Demo
 
-![Dashboard Preview] 
-
-LinkedIn: ADD_LINK  
-Portfolio: ADD_LINK
+![Dashboard Preview] (https://github.com/Sgit98/Hospital-Dashboard/blob/main/Snapshot%20of%20Hospital%20Project.png)
