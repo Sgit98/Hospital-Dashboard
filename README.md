@@ -73,9 +73,6 @@ To deliver an interactive analytics solution that:
 - Readmission rate  
 - Department utilization  
 
-**Patient Volume Trend (Line Chart)**
-Shows admissions over time.
-
 **Department Utilization (Bar Chart)**
 Ranks departments by patient volume.
 
